@@ -1,0 +1,18 @@
+{
+  "name": "store-ontology",
+  "private": true,
+  "description": "Open-source Store Ontology — unified schema for Korean SMB store data",
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "test": "turbo test",
+    "lint": "turbo lint",
+    "clean": "turbo clean",
+    "typecheck": "turbo lint"
+  },
+  "devDependencies": {
+    "turbo": "^2.4",
+    "typescript": "^5.7"
+  },
+  "packageManager": "pnpm@9.15.4"
+}
