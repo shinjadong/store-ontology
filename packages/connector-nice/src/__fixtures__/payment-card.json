@@ -1,0 +1,21 @@
+{
+  "resultCode": "0000",
+  "resultMsg": "성공",
+  "tid": "nictest00m01012403271200001234",
+  "orderId": "ORDER-20240327-00042",
+  "amount": 45000,
+  "balanceAmt": 45000,
+  "payMethod": "card",
+  "approveNo": "30000015",
+  "status": "paid",
+  "paidAt": "2024-03-27T12:34:56+09:00",
+  "card": {
+    "cardCode": "04",
+    "cardName": "삼성카드",
+    "cardNum": "532691****1234",
+    "cardQuota": "00",
+    "isInterestFree": false,
+    "cardType": "credit"
+  },
+  "cancels": null
+}
